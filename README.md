@@ -36,7 +36,8 @@
  ![image](https://user-images.githubusercontent.com/113594316/198233336-dd9f5c19-481b-486a-928a-99c32a732f89.png)
 
  ## OUTPUT
- ![Uploading Screenshot 2024-12-14 211445.png…]()
+ 
+![Screenshot 2024-12-14 211445](https://github.com/user-attachments/assets/74ba1e9b-2a6f-4719-b8f1-6850b8d74a22)
 
  
  ## RESULT
